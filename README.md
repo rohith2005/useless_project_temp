@@ -1,50 +1,32 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Chappathi Burn Identifier 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bings
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Rohit H - Govt. Model Engg. College
+- Member 2: Arppitha Thomas - Govt. Model Engg. College
 
 ### Project Description
-[2-3 lines about what your project does]
+This project helps to identify burns in chappathi and determine whether it is Edible or not. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Identifying Burns in Chappathi, finding it's edible or not and getting total percentage of burns.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By a mixture of Javascript, CSS and HTML, we created a model which helps to identify and calculate overburns or blackspots.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+- HTMKL
+- CSS
+- Javascript
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -88,9 +70,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Arppitha Thomas : Ideation 
+- Rohit H : Coding
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

@@ -1,42 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Chappathi Burn Identifier 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bings
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Rohit H - Govt. Model Engineering College
+- Member 2: Arppitha Thomas - Govt. Model Engineering College
 
 ### Project Description
-[2-3 lines about what your project does]
+This project helps to identify burns in a Chappathi. It calculates the percentage of burn in a chappathi and determines whether it is edible or not. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+To Determine whether Chappathi is Edible or Not.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We solved it through thorough coding in Visual Studio Code by giving it an index.html, styles.css and script.js.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Visual Studio Code
+- HTML, Javascript and CSS (Cascaded Style Sheets)
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
 [commands]
 
@@ -88,9 +80,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Arppitha Thomas: Ideation
+- Rohit H: Coding
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

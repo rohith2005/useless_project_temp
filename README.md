@@ -24,47 +24,27 @@ By a mixture of Javascript, CSS and HTML, we created a model which helps to iden
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- HTMKL
+- HTML
 - CSS
 - Javascript
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1837" height="910" alt="Screenshot 2025-08-02 204553" src="https://github.com/user-attachments/assets/62111e5c-911d-4012-9149-0ad8f0cf7f50" />
+An Edible Chappathi
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1847" height="904" alt="Screenshot 2025-08-02 204712" src="https://github.com/user-attachments/assets/2a72218c-b152-4dcf-bc11-6755cef0697f" />
+A Non-Edible Chappathi (Overburnt)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1848" height="900" alt="Screenshot 2025-08-02 204752" src="https://github.com/user-attachments/assets/a9caffb1-e926-4989-895e-379f0ef4d04f" />
+Website View
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+https://github.com/user-attachments/assets/92e58896-2062-4f5e-ad10-1cac3855163f
+
+
 
 # Additional Demos
 [Add any extra demo materials/links]
